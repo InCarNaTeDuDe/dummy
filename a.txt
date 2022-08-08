@@ -1,1 +1,2 @@
-heheheh
+text changed!
+Text written here in b2 branch after pulling b1 with conflict!!!
